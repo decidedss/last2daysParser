@@ -1,2 +1,2 @@
 # last2daysParser
-Assisting scripts: Parses data from penteli.meteo.gr
+Assisting script: Parses data from penteli.meteo.gr (station last 2 days weather data) 
